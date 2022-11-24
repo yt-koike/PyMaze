@@ -6,7 +6,10 @@ Every stage is randomly generated.
 
 ## How to play (遊び方)
 
-https://user-images.githubusercontent.com/42059282/203692824-e88d940d-5df9-4737-8913-5b7f30bd47af.mp4
+
+
+https://user-images.githubusercontent.com/42059282/203695430-000ed900-652f-4acf-96b1-5bebac014cd8.mp4
+
 
 
 ## Controls (操作)
