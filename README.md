@@ -1,7 +1,8 @@
 # Maze the skyscraper (高層迷宮)
-This application is a maze game which features a high intricate building. It has 3D View mode and 2D Map mode. It also has a guide system for beginners.
+This application is a maze game which features a high intricate building. It has 3D View mode and 2D Map mode. It also has a guide system for beginners. 
+Every stage is randomly generated.
 
-このアプリは入り組んだ高層迷路を進んでいくゲームです。3Dモードと2D地図モードがあります。初心者向けのガイドシステムも付属しています。
+このアプリは入り組んだ高層迷路を進んでいくゲームです。3Dモードと2D地図モードがあります。初心者向けのガイドシステムも付属しています。迷路は自動生成されます。
 
 ## Controls (操作)
 - Up/Down keys: Move forward/back
