@@ -4,6 +4,11 @@ Every stage is randomly generated.
 
 このアプリは入り組んだ高層迷路を進んでいくゲームです。3Dモードと2D地図モードがあります。初心者向けのガイドシステムも付属しています。迷路は自動生成されます。
 
+## Set up (前準備)
+1. Install [pygame package](https://pypi.org/project/pygame/). pygame パッケージをインストールする。
+2. Download sources in this repository. 本レポジトリのソースコードをダウンロードする。
+3. Run [main.py](https://github.com/yt-koike/PyMaze/blob/main/main.py) you downloaded with [Python interpreter](https://www.python.org/). Python インタプリタでダウンロードした main.py を実行する。
+
 ## How to play (遊び方)
 
 
